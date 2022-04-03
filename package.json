@@ -1,0 +1,29 @@
+{
+	"name": "@devteks/call-once",
+	"version": "0.0.1",
+	"description": "Call function once",
+	"license": "MIT",
+	"repository": "github:mosamuhana/call-once",
+	"author": {
+		"name": "Mosa Muhana <mosamuhana@gmail.com>",
+		"url": "https://github.com/mosamuhana"
+	},
+	"homepage": "https://github.com/mosamuhana/call-once",
+	"bugs": {
+		"url": "https://github.com/mosamuhana/call-once/issues"
+	},
+	"funding": "https://github.com/mosamuhana/call-once?sponsor=1",
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"call once",
+		"call func once",
+		"call function once",
+		"once",
+		"call"
+	],
+	"main": "index.js",
+	"types": "index.d.ts"
+}
