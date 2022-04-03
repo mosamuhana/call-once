@@ -1,4 +1,4 @@
-# @devteks/queue
+# @devteks/call-once
 
 Call function once
 
@@ -8,9 +8,7 @@ Call function once
 # Usage:
 import:
 ```javascript
-const { callOnce } = require('@devteks/call-once');
-```
-OR
-```typescript
-import { callOnce } from '@devteks/queue';
+const callOnce = require('@devteks/call-once');
+// OR
+import callOnce from '@devteks/call-once';
 ```
